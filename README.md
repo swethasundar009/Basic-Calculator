@@ -42,7 +42,7 @@ A clean and functional calculator web application built with HTML, CSS, and Java
 
 1. Clone the repository:
 
-git clone https://github.com/swethasundar009/Basic-Calculator.git
+  git clone https://github.com/swethasundar009/Basic-Calculator.git
 
 
 2. Open `calci.html` in your web browser to use the calculator
